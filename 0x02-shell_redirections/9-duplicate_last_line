@@ -1,2 +1,2 @@
 #!/bin/bash
-task -qn 1 iactac > iactac
+tail -l iacta >> iacta
