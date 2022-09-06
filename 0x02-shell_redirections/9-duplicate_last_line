@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -en "" | tail -lines=l iacata >> iacata
+tail -n l iacta >> iacta
